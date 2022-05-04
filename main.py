@@ -140,4 +140,4 @@ def delete_student_by_id(student_id):
     #  to delete multiple 
     # student_collection.delete_many(query)
 
-delete_student_by_id("6271ee1551d743847b79d605")
+delete_student_by_id("6271ee1551d743847b79d605") 
